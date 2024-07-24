@@ -1,0 +1,6 @@
+# Ignore everything in tomcat9 folder
+tomcat9/*
+
+# But do not ignore the 'one' folder inside tomcat9
+!tomcat9/one/
+
